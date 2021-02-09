@@ -18,7 +18,7 @@ If you face an error, want to discuss this project or get support for it, join [
 
 #### Cloning
 ```
-    git clone https://github.com/rojserbest/vcpb.git vcpb && cd vcpb
+    git clone https://github.com/md5hash16/vcpb.git vcpb && cd vcpb
 ```
 
 #### Configuring
